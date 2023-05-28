@@ -1,4 +1,4 @@
-package org.example.funtionalinterface;
+package org.example.lambdastudy.funtionalinterface;
 
 import java.util.function.Predicate;
 

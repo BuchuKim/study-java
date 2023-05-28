@@ -1,4 +1,4 @@
-package org.example.funtionalinterface;
+package org.example.lambdastudy.funtionalinterface;
 
 public class RunnableExample {
     public static void main(String[] args) {
