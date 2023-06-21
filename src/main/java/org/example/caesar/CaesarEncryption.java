@@ -1,6 +1,6 @@
 package org.example.caesar;
 
-public class CaesarEncryption {
+public final class CaesarEncryption {
     private final int distance;
     CaesarEncryption(int distance) {
         this.distance = distance;
